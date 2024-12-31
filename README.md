@@ -10,4 +10,6 @@ This page was done as a project for a certificate at FreeCodeCamp.
    - It had a form which an individuak could request for the produt (which is a gym site)
 
 - CSS
+   - The **CSS** made the font readable for viewers.
+   - It made the nav bar always on the top and easily accessible to all
 
